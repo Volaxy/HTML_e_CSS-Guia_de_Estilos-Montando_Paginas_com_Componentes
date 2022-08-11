@@ -1,0 +1,15 @@
+.button {
+    background-color: #ffcB47;
+
+    border: none;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+
+    text-align: center;
+
+    box-shadow: 10px 10px 30px #ffcB473d;
+}

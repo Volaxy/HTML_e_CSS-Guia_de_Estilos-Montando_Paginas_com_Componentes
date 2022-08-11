@@ -12,6 +12,7 @@ URL do curso -> [Guia de Estilos: Montando Páginas com Componentes](https://cur
 
 ## Links Úteis &#x1F517;
 * [Projeto no Figma](https://caelum-online-public.s3.amazonaws.com/1808-guia-de-estilos/01/Aula1-Styleguides.fig) - Arquivo do projeto feito no **Figma**.
+* [Google Fonts](https://fonts.google.com/) - Site de fontes gratuitas do **Google**.
 
 ## Siglas &#x1F5FA;
 *
@@ -19,6 +20,8 @@ URL do curso -> [Guia de Estilos: Montando Páginas com Componentes](https://cur
 ## Atalhos &#x2328;
 *
 
-## NOME_DA_SECAO &#x1F516;
-
-### NOME_DA_AULA
+## 01 - Figma e Guia de Estilos &#x1F516;
+* Importar o projeto no Figma.
+* Recolher recursos para o projeto.
+* Preparar a estrutura de arquivos.
+* Criar o componente de botão.
