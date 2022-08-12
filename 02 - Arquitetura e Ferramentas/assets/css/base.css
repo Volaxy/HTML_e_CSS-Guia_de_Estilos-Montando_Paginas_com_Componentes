@@ -1,0 +1,13 @@
+@import url("style.css");
+
+@import url("buttons.css");
+
+body {
+    background-image: url("../images/background-texture.png"), url("../images/background-lines.svg");
+    background-position: center;
+}
+
+.container {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
