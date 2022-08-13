@@ -2,9 +2,25 @@
 
 @import url("buttons.css");
 
+@import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps:wght@400;900&family=Montserrat:wght@400;700&display=swap');
+
+:root {
+    --yellow: #ffcb47;
+    --white: #fff;
+    --grey: #909090;
+    --black: #202020;
+
+    --family-body: "MontSerrat", sans-serif;
+
+    --height-body: 1rem;
+}
+
 body {
     background-image: url("../images/background-texture.png"), url("../images/background-lines.svg");
     background-position: center;
+
+    font-family: var(--family-body);
+    font-size: var(--height-body);
 }
 
 .container {

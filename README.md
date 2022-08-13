@@ -25,3 +25,10 @@ URL do curso -> [Guia de Estilos: Montando Páginas com Componentes](https://cur
 * Recolher recursos para o projeto.
 * Preparar a estrutura de arquivos.
 * Criar o componente de botão.
+
+## 02 - Arquitetura e Ferramentas &#x1F516;
+* Como baixar e instalar plugins no Visual Studio Code.
+* O uso de variáveis.
+* Padronização.
+* Import CSS.
+* Criar uma folha de estilos única que contém todas as informações de estilos mínimas para uma página.
