@@ -1,0 +1,11 @@
+@import url("../base.css");
+
+.card {
+    background-color: var(--white);
+
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    box-sizing: border-box;
+
+    box-shadow: 10px 10px 30px var(--transparent-black);
+}
