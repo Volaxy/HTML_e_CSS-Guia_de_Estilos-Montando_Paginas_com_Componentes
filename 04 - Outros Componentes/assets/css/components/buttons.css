@@ -1,0 +1,54 @@
+.button {
+    background-color: var(--yellow);
+    width: 100%;
+
+    border: none;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    color: var(--white);
+    font-family: inherit;
+    font-weight: var(--weight-button);
+
+    text-align: center;
+
+    box-shadow: 10px 10px 30px var(--transparent-yellow);
+}
+
+.button--alternative {
+    background-color: unset;
+
+    border: 1px solid var(--yellow);
+
+    color: var(--yellow);
+
+    box-shadow: none;
+}
+
+.input {
+    background-color: var(--white);
+    width: 100%;
+
+    margin-bottom: 1rem;
+    border: none;
+    padding: 1.75rem;
+    box-sizing: border-box;
+
+    color: inherit;
+
+    font-family: inherit;
+    font-size: inherit;
+
+    box-shadow: 10px 10px 30px var(--transparent-black);
+}
+
+.input--icon {
+    background-repeat: no-repeat;
+    background-position: left 1.5rem center;
+
+    padding-left: 4.25rem;
+}
+
+.input--email {
+    background-image: url("../../images/icons/email.svg");
+}

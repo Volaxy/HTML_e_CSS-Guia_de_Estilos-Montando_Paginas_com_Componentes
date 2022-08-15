@@ -38,3 +38,7 @@ URL do curso -> [Guia de Estilos: Montando Páginas com Componentes](https://cur
 * Padronização.
 * Import CSS.
 * Criar uma folha de estilos única que contém todas as informações de estilos mínimas para uma página.
+
+## 04 - Outros Componentes &#x1F516;
+* Separar componentes.
+* Lidar com estilizações idênticas com conteúdos diferentes.

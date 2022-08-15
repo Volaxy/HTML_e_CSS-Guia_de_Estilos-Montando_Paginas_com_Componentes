@@ -1,0 +1,41 @@
+.list-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item {
+    width: 15rem;
+
+    display: flex;
+    align-items: center;
+
+    margin-bottom: 1rem;
+}
+
+.item__icon {
+    background-color: var(--yellow);
+    background-size: 1.375rem;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 3.25rem;
+    height: 3.25rem;
+
+    display: block;
+
+    margin-right: 1rem;
+    border-radius: 50%;
+}
+
+.item__icon--cursor {
+    background-image: url("../../images/icons/mouse.svg");
+}
+
+.item__icon--cart {
+    background-image: url("../../images/icons/cart.svg");
+}
+
+.item__icon--truck {
+    background-image: url("../../images/icons/truck.svg");
+}
