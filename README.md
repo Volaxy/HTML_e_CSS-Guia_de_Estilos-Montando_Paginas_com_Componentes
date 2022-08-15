@@ -42,3 +42,8 @@ URL do curso -> [Guia de Estilos: Montando Páginas com Componentes](https://cur
 ## 04 - Outros Componentes &#x1F516;
 * Separar componentes.
 * Lidar com estilizações idênticas com conteúdos diferentes.
+
+## 05 - Iniciando a Página &#x1F516;
+* Como planejar o desenvolvimento de uma página com as ferramentas que criamos.
+* Maneiras de implementar componentes.
+* Importância de uma documentação.

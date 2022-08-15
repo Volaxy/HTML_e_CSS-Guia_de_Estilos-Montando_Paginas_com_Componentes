@@ -1,0 +1,44 @@
+.footer {
+    background-color: var(--white);
+    background-image: url("../../images/splash-footer.svg");
+    background-position: top -11rem right;
+    background-repeat: no-repeat;
+
+    padding-top: 1.5rem;
+    padding-bottom: 2.5rem;
+}
+
+.footer__logo {
+    max-width: 11.125rem;
+
+    margin-bottom: 1.25rem;
+}
+
+.footer__social {
+    display: flex;
+
+    margin-bottom: 2rem;
+}
+
+.footer__social-media {
+    width: 1.625rem;
+    height: 1.625rem;
+
+    display: inline-block;
+
+    margin-right: 1.625rem;
+}
+
+.footer__unity {
+    margin-bottom: 2rem;
+}
+
+.footer__unity-tittle {
+    display: block;
+
+    margin-bottom: .5rem;
+
+    color: var(--black);
+    font-size: var(--height-detach);
+    font-weight: var(--weight-detach);
+}
