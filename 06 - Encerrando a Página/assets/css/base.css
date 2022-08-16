@@ -1,0 +1,77 @@
+@import url("components/buttons.css");
+@import url("components/card.css");
+@import url("components/item.css");
+@import url("components/product.css");
+@import url("components/video.css");
+@import url("components/header.css");
+@import url("components/footer.css");
+
+@import url("hero.css");
+@import url("how-to-get.css");
+@import url("offers.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Elsie+Swash+Caps:wght@400;900&family=Montserrat:wght@400;700&display=swap');
+
+:root {
+    --yellow: #ffcb47;
+    --transparent-yellow: #ffcB473d;
+    --white: #fff;
+    --grey: #909090;
+    --black: #202020;
+    --transparent-black: #0000000f;
+
+    --family-body: "MontSerrat", sans-serif;
+    --family-tittle-detach: "Elsie Swash Caps", sans-serif;
+
+    --height-body: 1rem;
+    --height-tittle: 1.375rem;
+    --height-tittle-detach: 2rem;
+    --height-detach: 1.375rem;
+
+    --weight-tittle-detach: 900;
+    --weight-button: 700;
+    --weight-detach: 700;
+}
+
+body {
+    background-image: url("../images/background-texture.png"), url("../images/background-lines.svg");
+    background-position: center;
+    
+    color: var(--grey);
+
+    font-family: var(--family-body);
+    font-size: var(--height-body);
+}
+
+.container {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.tittle {
+    font-size: var(--height-tittle);
+}
+
+.tittle--detach {
+    display: block;
+
+    margin-top: .75rem;
+    margin-bottom: .75rem;
+
+    color: var(--black);
+    font-family: var(--family-tittle-detach);
+    font-size: var(--height-tittle-detach);
+    font-weight: var(--weight-tittle-detach);
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-middle {
+    text-align: center;
+}
+
+.text {
+    line-height: 26px;
+}

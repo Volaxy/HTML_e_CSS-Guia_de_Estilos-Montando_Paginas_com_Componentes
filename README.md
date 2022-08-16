@@ -47,3 +47,6 @@ URL do curso -> [Guia de Estilos: Montando Páginas com Componentes](https://cur
 * Como planejar o desenvolvimento de uma página com as ferramentas que criamos.
 * Maneiras de implementar componentes.
 * Importância de uma documentação.
+
+## 06 - Encerrando a Página &#x1F516;
+* Estruturas mais complexas com EMMET.
